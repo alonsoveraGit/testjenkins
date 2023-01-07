@@ -1,2 +1,2 @@
 # testjenkins
-testjenkins Webhook22
+testjenkins Webhook2
